@@ -10,4 +10,4 @@ Lectures 2 and 3 include introductory time series analysis and forecasting conce
 
 Lecture 4 on optimal decision making shows how to use a battery-inverter system to optimise energy demand according to a given price for electricity usage. This is done using brute force (random) search, genetic algorithms and linear programming. The libraries we discuss include Deap and Pulp.
 
-The prerequisites folder is taken directly from an introductory course to Python programming.
+The prerequisites folder is taken directly from an introductory course to Python programming from Cambridge University.
