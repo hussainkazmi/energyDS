@@ -1,6 +1,6 @@
 # energyDS
 
-These notebooks were used as part of the data science for energy engineers course to introduce students to exploratory data analysis, forecasting and optimal decision making.
+These notebooks were used as part of the data science for energy engineers course to introduce students to exploratory data analysis, forecasting and optimal decision making. While the course was taught using Deepnote, the notebooks can also be run in a standalone manner (requirements.txt contains a list of relevant dependencies).
 
 Lecture 0 is an introduction to energy data science use cases as well as some pointers to existing resources on the internet (e.g. lectures etc.).
 
